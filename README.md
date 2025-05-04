@@ -12,14 +12,10 @@ The tool is extensible and uses the **Factory Design Pattern** to easily support
 
 ## How to Run the Project
 
-### 1. Clone or Download
-git clone https://github.com/yourusername/log-aggregator-java.git
-cd log-aggregator-java
-
-### 2. Requirements
+### 1. Requirements
 Ensure you're using Java SDK 17+ and Gradle.
 
-### 3. Run commands in terminal
+### 2. Run commands in terminal
 gradle build
 gradle run --args="--file logs.txt"
 This will:
