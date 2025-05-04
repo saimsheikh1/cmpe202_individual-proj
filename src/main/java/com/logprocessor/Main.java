@@ -1,3 +1,9 @@
+package com.logprocessor;
+// import com.logprocessor.LogClassifier;
+// import com.logprocessor.OutputWriter;
+// import com.logprocessor.LogAggregatorFactory;
+// import com.logprocessor.LogParser;
+// import com.logprocessor.ILogAggregator;
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;

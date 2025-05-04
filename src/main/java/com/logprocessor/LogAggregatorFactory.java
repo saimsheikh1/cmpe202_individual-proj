@@ -1,3 +1,4 @@
+package com.logprocessor;
 public class LogAggregatorFactory {
     public ILogAggregator createAggregator(String type) {
         switch (type.toLowerCase()) {

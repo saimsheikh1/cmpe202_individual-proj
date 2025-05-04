@@ -74,7 +74,7 @@ set CLASSPATH=%APP_HOME%\lib\cmpe202_individual-proj-1.0.jar;%APP_HOME%\lib\gson
 
 
 @rem Execute cmpe202_individual-proj
-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %CMPE202_INDIVIDUAL_PROJ_OPTS%  -classpath "%CLASSPATH%" Main %*
+"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %CMPE202_INDIVIDUAL_PROJ_OPTS%  -classpath "%CLASSPATH%" com.logprocessor.Main %*
 
 :end
 @rem End local scope for the variables with windows NT shell

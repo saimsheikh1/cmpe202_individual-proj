@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnit.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-04T23:45:46.103Z" hostname="DESKTOP-MDENHQD" time="0.048">
+  <properties/>
+  <testcase name="testMainRunsWithoutCrash()" classname="JUnit.MainTest" time="0.048"/>
+  <system-out><![CDATA[Processed 3 log lines.
+Wrote output to apm.json
+Wrote output to application.json
+Wrote output to request.json
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

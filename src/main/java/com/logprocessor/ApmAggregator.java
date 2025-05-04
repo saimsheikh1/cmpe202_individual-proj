@@ -1,3 +1,4 @@
+package com.logprocessor;
 import java.util.*;
 
 public class ApmAggregator implements ILogAggregator {

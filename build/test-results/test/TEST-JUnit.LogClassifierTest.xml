@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnit.LogClassifierTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-05-04T23:45:46.090Z" hostname="DESKTOP-MDENHQD" time="0.005">
+  <properties/>
+  <testcase name="testClassifyRequestLog()" classname="JUnit.LogClassifierTest" time="0.001"/>
+  <testcase name="testClassifyApplicationLog()" classname="JUnit.LogClassifierTest" time="0.0"/>
+  <testcase name="testUnknownLogReturnsNull()" classname="JUnit.LogClassifierTest" time="0.001"/>
+  <testcase name="testClassifyApmLog()" classname="JUnit.LogClassifierTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

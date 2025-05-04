@@ -1,3 +1,4 @@
+package com.logprocessor;
 import java.util.Map;
 
 public interface ILogParser {
