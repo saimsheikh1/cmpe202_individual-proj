@@ -1,4 +1,4 @@
-# cmpe202_individual-proj
+# Individual Project for CMPE 202 Software Systems
 
 # Log Aggregator CLI Tool
 
